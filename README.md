@@ -14,7 +14,7 @@ Em 2009 o FBI já tinha gastado 405 milhões de dólares e só tinham terminado 
 Em 2010 depois de algumas mudanças internas, o novo CTO tinha conhecimento no framework Scrum e resolveu colocar em prática nesse projeto. Uma auditoria concluiu que o FBI iria precisar desembolsar mais 35 milhões de dólares e mais 6 anos para terminar o projeto.
 De 400 pessoas o FBI ficou apenas com 45 pessoas na equipe, dentro dela 15 programadores, e uma entrega a cada 30 dias.<br>
 Quase no final de 2011, um ano após eles trocarem de Cascata para Scrum o projeto teve sua entrega terminada. Foram exatos um ano e um orçamento de 30 milhões de dólares, muito mais rápido e muito mais barato do que haviam passado no começo do projeto.
-Acho que não precisa nem falar mais nada de como o modelo Scrum, dependendo do projeto é claro, é muito mais rápido e eficaz do que o modelo Cascata.<br>
+Acho que não precisa nem falar mais nada de como o modelo Scrum, dependendo do projeto é claro, é muito mais rápido e eficaz do que o modelo Cascata.<br><br>
 E por que isso acontece?<br><br>
 Com Scrum temos entregas com alto valor muito mais rápido, porque com ele conseguimos ter transparência, inspeção e adaptação, reduzindo assim o tempo de entrega do projeto.
 Por isso hoje o Scrum está na moda, por ser adaptável a várias áreas, não somente a de TI. 
